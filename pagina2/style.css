@@ -1,0 +1,31 @@
+h1{
+    color:red;
+    text-align: center;
+    font-size: 45px;
+}
+#primeiro{
+    color: green;
+}
+#segundo{
+    color: blue;
+}
+#terceiro{
+    color: yellow;
+}
+#quarto{
+    color:rgb(236, 131, 149)
+}
+#quinto{
+    color:blanchedalmond;
+}
+#quadrado{
+    width: 90px;
+    height: 90px;
+    background-color: rgb(231, 184, 184);
+}
+.basico{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    background-color: blueviolet;
+}

@@ -1,0 +1,17 @@
+h1{
+    color:blue;
+    text-align: center;
+    font-size: 45px;
+}
+#primeiro{
+    color: aqua;
+    font-size: 30px;
+}
+#segundo{
+    color: aquamarine;
+    font-size: 30px;
+}
+#terceiro{
+    color: rgb(8, 100, 153);
+    font-size: 30px;
+}
